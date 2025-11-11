@@ -2,23 +2,25 @@ import FleetCard from './FleetCard';
 
 const fleetCategories = [
   {
-    title: "Light Delivery Vehicles",
-    tagline: "Perfect for urban deliveries and small cargo",
+    
+    title: "1-8 Ton Trucks",
+    tagline: "Heavy-duty capacity for larger freight",
     image: "https://d64gsuwffb70l.cloudfront.net/69123aa83f5ea47b878bb8fa_1762802425890_b5917211.png"
   },
   {
-    title: "Panel Vans",
-    tagline: "Versatile solutions for medium-sized loads",
+    
+    title: "Refrigerated Trucks",
+    tagline: "Temperature-controlled transport for perishables",
     image: "https://d64gsuwffb70l.cloudfront.net/69123aa83f5ea47b878bb8fa_1762802431247_27b96adf.png"
   },
   {
-    title: "1-8 Ton Trucks",
-    tagline: "Heavy-duty capacity for larger freight",
-    image: "https://d64gsuwffb70l.cloudfront.net/69123aa83f5ea47b878bb8fa_1762802394417_f34ffb9d.png"
+   title: "Panel Vans",
+    tagline: "Versatile solutions for medium-sized loads", 
+    image: "https://res.cloudinary.com/daku7w3be/image/upload/v1762863758/1000288762_yycsqb.jpg"
   },
   {
-    title: "Refrigerated Trucks",
-    tagline: "Temperature-controlled transport for perishables",
+    title: "Light Delivery Vehicles",
+    tagline: "Perfect for urban deliveries and small cargo",
     image: "https://d64gsuwffb70l.cloudfront.net/69123aa83f5ea47b878bb8fa_1762802437823_03f09fbc.jpg"
   },
   {

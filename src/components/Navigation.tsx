@@ -20,11 +20,11 @@ export default function Navigation({ onQuoteClick }: { onQuoteClick: () => void 
       scrolled ? 'bg-white shadow-lg' : 'bg-white/95 backdrop-blur-sm'
     }`}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-20">
+        <div className="flex justify-between items-center h-24">
           <img 
-            src="https://d64gsuwffb70l.cloudfront.net/69123aa83f5ea47b878bb8fa_1762802411696_3c6d2122.png" 
+            src="https://res.cloudinary.com/daku7w3be/image/upload/v1762863757/69123aa83f5ea47b878bb8fa_1762802411696_3c6d2122_jjkvhn.png" 
             alt="Joma MJ Logistics" 
-            className="h-12 w-auto"
+            className="h-20 w-auto"
           />
           
           <div className="hidden md:flex items-center space-x-8">

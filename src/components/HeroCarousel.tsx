@@ -10,17 +10,17 @@ const slides: HeroSlide[] = [
   {
     headline: "Reliable Truck & Van Rentals Across South Africa",
     subtext: "Flexible fleet options and fast quoting for your business.",
-    image: "https://d64gsuwffb70l.cloudfront.net/69123aa83f5ea47b878bb8fa_1762802394417_f34ffb9d.png"
+    image: "https://res.cloudinary.com/daku7w3be/image/upload/v1762863757/1000288763_oflzbu.jpg"
   },
   {
     headline: "Professional Logistics Solutions for Every Industry",
     subtext: "From light delivery to heavy freight — we've got you covered.",
-    image: "https://d64gsuwffb70l.cloudfront.net/69123aa83f5ea47b878bb8fa_1762802404969_8f891266.png"
+    image: "https://res.cloudinary.com/daku7w3be/image/upload/v1762863758/1000288762_yycsqb.jpg"
   },
   {
     headline: "Nationwide Service with Local Expertise",
     subtext: "Trusted by businesses across South Africa for dependable rentals.",
-    image: "https://d64gsuwffb70l.cloudfront.net/69123aa83f5ea47b878bb8fa_1762802419278_44f514bd.png"
+    image: "https://res.cloudinary.com/daku7w3be/image/upload/v1762863757/1000288761_qxpswf.jpg"
   }
 ];
 
